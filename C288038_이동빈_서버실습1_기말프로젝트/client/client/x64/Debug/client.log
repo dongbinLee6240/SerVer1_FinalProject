@@ -1,0 +1,24 @@
+﻿  기말과제 클라.cpp
+C:\코드\client\client\기말과제 클라.cpp(40,114): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(46,38): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(48,36): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(59,114): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(65,38): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(67,36): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(76,114): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(82,38): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(84,36): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(93,114): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(99,38): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(101,36): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(201,37): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(203,35): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\client\client\기말과제 클라.cpp(247,17): warning C4101: 'threadSocketAddress' :참조되지 않은 지역 변수입니다.
+C:\코드\client\client\기말과제 클라.cpp(246,9): warning C4101: 'addressLen' :참조되지 않은 지역 변수입니다.
+C:\코드\client\client\기말과제 클라.cpp(279,17): warning C4101: 'threadSocketAddress' :참조되지 않은 지역 변수입니다.
+C:\코드\client\client\기말과제 클라.cpp(278,9): warning C4101: 'addressLen' :참조되지 않은 지역 변수입니다.
+C:\코드\client\client\기말과제 클라.cpp(324,17): warning C4101: 'threadSocketAddress' :참조되지 않은 지역 변수입니다.
+C:\코드\client\client\기말과제 클라.cpp(323,9): warning C4101: 'addressLen' :참조되지 않은 지역 변수입니다.
+C:\코드\client\client\기말과제 클라.cpp(374,17): warning C4101: 'threadSocketAddress' :참조되지 않은 지역 변수입니다.
+C:\코드\client\client\기말과제 클라.cpp(373,9): warning C4101: 'addressLen' :참조되지 않은 지역 변수입니다.
+  client.vcxproj -> C:\코드\client\x64\Debug\client.exe

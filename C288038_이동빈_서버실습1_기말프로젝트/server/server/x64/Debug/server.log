@@ -1,0 +1,18 @@
+﻿  기말 과제 서버.cpp
+C:\코드\server\server\기말 과제 서버.cpp(60,114): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(66,38): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(68,36): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(77,114): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(83,38): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(85,36): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(94,114): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(100,38): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(102,36): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(111,114): warning C4267: '=': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(117,38): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(119,36): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(226,37): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(228,35): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(234,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코드\server\server\기말 과제 서버.cpp(497,17): warning C4101: 'threadSocketAddress' :참조되지 않은 지역 변수입니다.
+  server.vcxproj -> C:\코드\server\x64\Debug\server.exe
